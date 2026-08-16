@@ -26,7 +26,7 @@
 - 🔗 [在线演示](https://shippage.ai/p/ouxr0z)
 
 ### 📊 VoiceInsight · 用户口碑分析
-粘贴用户评论 → 关键词情感分析 → 产品改进报告
+粘贴用户评论 → 关键词评价分析 → 产品改进报告
 
 - 情感分布 · 痛点 TOP5 · AI 改进建议 · 词云可视化
 - 🔗 [在线演示](https://38e3ec3ac99e4297aa3f42fb16399907.app.workbuddy.link)
