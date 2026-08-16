@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 你好，我是 Lucian
+# 👋 你好，我是 lucia
 
 **用 AI 把想法变成能用的产品**
 
