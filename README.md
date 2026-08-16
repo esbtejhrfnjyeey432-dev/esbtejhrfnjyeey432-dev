@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**esbtejhrfnjyeey432-dev/esbtejhrfnjyeey432-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 你好，我是 Lucian
 
-Here are some ideas to get you started:
+**AI 产品方向求职者 · 用 AI 把想法变成能用的产品**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 精选作品
+
+### 🩺 智慧健康 · 校园健康打卡小程序
+「3 步极速打卡」+ 教师班级健康看板 + 异常智能预警 + 数据导出
+
+- 覆盖 4 个班 70 名学生 · 学生端 / 教师端双角色完整演示
+- 产品亮点：洞察到 90%+ 打卡为健康状态，设计「一键打卡」最短路径
+- 🔗 [在线演示](https://ad9e87ee5f7190e87.app.workbuddy.link) · 📦 [源码](https://github.com/esbtejhrfnjyeey432-dev/smart-health-campus)
+
+### ✂️ PixelForge · 图像批处理工坊
+本地化批量裁剪 / 尺寸标准化 / 格式转换 / 一键打包
+
+- 零上传、零泄露 · Canvas + CRC32 ZIP 纯前端实现
+- 🔗 [在线演示](https://shippage.ai/p/ouxr0z)
+
+### 📊 VoiceInsight · 用户口碑分析
+粘贴用户评论 → 关键词情感分析 → 产品改进报告
+
+- 情感分布 · 痛点 TOP5 · AI 改进建议 · 词云可视化
+- 🔗 [在线演示](https://38e3ec3ac99e4297aa3f42fb16399907.app.workbuddy.link)
+
+---
+
+## 🛠️ 技能方向
+
+`AI 产品` · `用户研究` · `数据分析` · `Prompt Engineering` · `产品原型设计` · `Axure / Figma`
+
+---
+
+<div align="center">
+
+**🎯 目标岗位：AI 产品经理 / 产品助理（2026 届）**
+
+📫 联系我：<邮箱待补充>
+
+<sub>Built with ❤️ + AI · 2026</sub>
+
+</div>
