@@ -46,7 +46,7 @@
 
 <div align="center">
 
-📫 联系我：<邮箱待补充>
+📫 联系我：320551686@qq.com
 
 <sub>Built with ❤️ + AI · 2026</sub>
 
