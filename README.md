@@ -23,7 +23,7 @@
 减少人工手动时间，成本，提高工作效率
 
 - 零上传、零泄露 · Canvas + CRC32 ZIP 纯前端实现
-- 🔗 [在线演示](https://shippage.ai/p/ouxr0z)
+- 🔗 [在线演示]([https://shippage.ai/p/ouxr0z](https://7032afd1ce0a4ac8a4b22c79100d0e78.app.workbuddy.link))
 
 ### 📊 VoiceInsight · 用户口碑分析
 粘贴用户评论 → 关键词评价分析 → 产品改进报告
