@@ -40,8 +40,7 @@
 在合规前提下，自动聚合分析用户的迷茫点与兴趣点，低人才流失率，挖掘内部人才。
     帮助企业精准定位新机会点，反哺产品迭代方向。
  
-###<img width="771" height="437" alt="image" src="https://github.com/user-attachments/assets/3fc2b59d-67ac-4e4f-bd59-3fe335f14d5f" />
-
+<img width="862" height="285" alt="image" src="https://github.com/user-attachments/assets/bfbd9da5-cbc3-4967-831c-be41c3fc4837" />
 
 
 - 🔗 [GitHub 仓库](https://github.com/esbtejhrfnjyeey432-dev/growth-explorer)
