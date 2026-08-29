@@ -39,7 +39,9 @@
 - 在这个充满不确定性的时代，希望每个人都能拥有一个随时在线的“人生参谋”，缓解普遍的社会焦虑。
 在合规前提下，自动聚合分析用户的迷茫点与兴趣点，低人才流失率，挖掘内部人才。
     帮助企业精准定位新机会点，反哺产品迭代方向。
- <img width="508" height="286" alt="image" src="https://github.com/user-attachments/assets/846e29fb-9958-400d-8af6-f731577e9d5a" />
+<img width="397" height="332" alt="image" src="https://github.com/user-attachments/assets/f98c5deb-76b0-4648-8064-afe0abea9ba9" />
+<img width="277" height="64" alt="image" src="https://github.com/user-attachments/assets/eee0ce45-0ad8-4e8d-b3d8-a0373077f417" />
+
 
 
 
