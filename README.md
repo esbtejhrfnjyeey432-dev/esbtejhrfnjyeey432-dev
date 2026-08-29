@@ -1,4 +1,3 @@
-<img width="893" height="289" alt="image" src="https://github.com/user-attachments/assets/a950a5d3-e464-423a-ba6b-31955ca1aa3b" /><div align="center">
 
 # 👋 你好，我是 lucia 
 
