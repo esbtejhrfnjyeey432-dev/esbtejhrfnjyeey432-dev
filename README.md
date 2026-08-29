@@ -1,4 +1,4 @@
-<div align="center">
+<img width="893" height="289" alt="image" src="https://github.com/user-attachments/assets/a950a5d3-e464-423a-ba6b-31955ca1aa3b" /><div align="center">
 
 # 👋 你好，我是 lucia 
 
@@ -39,7 +39,7 @@
 - 在这个充满不确定性的时代，希望每个人都能拥有一个随时在线的“人生参谋”，缓解普遍的社会焦虑。
 在合规前提下，自动聚合分析用户的迷茫点与兴趣点，低人才流失率，挖掘内部人才。
     帮助企业精准定位新机会点，反哺产品迭代方向。
-![Uploading image.png…]()
+<img width="893" height="289" alt="image" src="https://github.com/user-attachments/assets/ec39ba75-c76a-4627-b32a-7c05ae439711" />
 <img width="1085" height="726" alt="3e236c070616d3efe37f82da9cf16b21" src="https://github.com/user-attachments/assets/928bbc02-7fc4-40f3-8822-f512b1cf3c41" /><img width="947" height="317" alt="15411b8566e677454b88527b2380e7af" src="https://github.com/user-attachments/assets/7e06245a-b88d-4117-9d52-3cebb47d0ed9" /><img width="1118" height="516" alt="b12f0de45ea78848e907962262048e38" src="https://github.com/user-attachments/assets/8c7b8c67-8988-4d16-9ad5-a64816b1c69b" />
 - 🔗 [GitHub 仓库](https://github.com/esbtejhrfnjyeey432-dev/growth-explorer)
   
