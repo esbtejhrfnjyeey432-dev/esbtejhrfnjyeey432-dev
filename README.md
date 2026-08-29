@@ -40,17 +40,7 @@
 在合规前提下，自动聚合分析用户的迷茫点与兴趣点，低人才流失率，挖掘内部人才。
     帮助企业精准定位新机会点，反哺产品迭代方向。
 <img width="318" height="242" alt="image" src="https://github.com/user-attachments/assets/c6b71b88-3554-4771-90d1-5530a05029ed" />
-<img width="271" height="74" alt="image" src="https://github.com/user-attachments/assets/19f75c73-1f03-4e8c-97d1-f83f6a2068f7" />
-<table>
-  <tr>
-    <td>< img src="img width="276" height="65" alt="image" src="https://github.com/user-attachments/assets/cd973294-bd5e-4346-94d8-e78417b97d60" /" width="300"/></td>
-  </tr>
-  <tr>
-    <td>< img src="img width="271" height="74" alt="image" src="https://github.com/user-attachments/assets/19f75c73-1f03-4e8c-97d1-f83f6a2068f7" /" width="300"/></td>
-  </tr>
-</table>
-
-
+<img width="271" height="74" alt="image" src="https://github.com/user-attachments/assets/19f75c73-1f03-4e8c-97d1-f83f6a2068f7" />                                        
 <img width="276" height="65" alt="image" src="https://github.com/user-attachments/assets/cd973294-bd5e-4346-94d8-e78417b97d60" />
 
 
