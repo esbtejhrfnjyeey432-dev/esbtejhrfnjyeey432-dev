@@ -39,8 +39,7 @@
 - 在这个充满不确定性的时代，希望每个人都能拥有一个随时在线的“人生参谋”，缓解普遍的社会焦虑。
 在合规前提下，自动聚合分析用户的迷茫点与兴趣点，低人才流失率，挖掘内部人才。
     帮助企业精准定位新机会点，反哺产品迭代方向。
-<img width="1016" height="826" alt="50625e1d6cb0119eb805b8c38bf51c98" src="https://github.com/user-attachments/assets/fd7355f1-9d6a-45fc-b82b-b9e945e4bb3b" /><img width="1013" height="829" alt="edbc55b0e3f104ec1fe0bc0a991ae1a6" src="https://github.com/user-attachments/assets/046cef54-9e31-4b1e-86d4-a2a13629e4cc" /><img width="1019" height="827" alt="3cd89f697078cef88a338f05b0928129" src="https://github.com/user-attachments/assets/22ffd36f-5eeb-4a7f-95ca-6ea42580d1f9" />
-<img width="1009" height="831" alt="7d85920150492c503796a5eb2181ad99" src="https://github.com/user-attachments/assets/4ccd6114-fd2f-4366-b523-77e674488aa2" />
+<img width="1041" height="852" alt="bd198e265e46c0d57a2957ff1deb28ff" src="https://github.com/user-attachments/assets/d1cf4eb8-06f4-4f7a-82e2-b6b812a6ba5e" /><img width="1085" height="726" alt="3e236c070616d3efe37f82da9cf16b21" src="https://github.com/user-attachments/assets/928bbc02-7fc4-40f3-8822-f512b1cf3c41" /><img width="947" height="317" alt="15411b8566e677454b88527b2380e7af" src="https://github.com/user-attachments/assets/7e06245a-b88d-4117-9d52-3cebb47d0ed9" /><img width="1118" height="516" alt="b12f0de45ea78848e907962262048e38" src="https://github.com/user-attachments/assets/8c7b8c67-8988-4d16-9ad5-a64816b1c69b" />
 - 🔗 [GitHub 仓库](https://github.com/esbtejhrfnjyeey432-dev/growth-explorer)
   
 
