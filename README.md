@@ -39,6 +39,10 @@
 - 在这个充满不确定性的时代，希望每个人都能拥有一个随时在线的“人生参谋”，缓解普遍的社会焦虑。
 在合规前提下，自动聚合分析用户的迷茫点与兴趣点，低人才流失率，挖掘内部人才。
     帮助企业精准定位新机会点，反哺产品迭代方向。
+<img width="1017" height="832" alt="ce81532ab526e0852121fd011df7d4f5" src="https://github.com/user-attachments/assets/4aa2135e-89b7-4d65-a3e0-1df342ae9798" />
+<img width="1016" height="826" alt="50625e1d6cb0119eb805b8c38bf51c98" src="https://github.com/user-attachments/assets/fd7355f1-9d6a-45fc-b82b-b9e945e4bb3b" /><img width="1013" height="829" alt="edbc55b0e3f104ec1fe0bc0a991ae1a6" src="https://github.com/user-attachments/assets/046cef54-9e31-4b1e-86d4-a2a13629e4cc" />
+<img width="1019" height="827" alt="3cd89f697078cef88a338f05b0928129" src="https://github.com/user-attachments/assets/22ffd36f-5eeb-4a7f-95ca-6ea42580d1f9" />
+<img width="1009" height="831" alt="7d85920150492c503796a5eb2181ad99" src="https://github.com/user-attachments/assets/4ccd6114-fd2f-4366-b523-77e674488aa2" />
 - 🔗 [GitHub 仓库](https://github.com/esbtejhrfnjyeey432-dev/growth-explorer)
   
 
