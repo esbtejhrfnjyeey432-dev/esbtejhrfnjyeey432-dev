@@ -31,7 +31,7 @@
 - 情感分布 · 痛点 TOP5 · AI 改进建议 · 词云可视化
 - 🔗 [在线演示](https://38e3ec3ac99e4297aa3f42fb16399907.app.workbuddy.link)
 
-### 🌱 Growth Explorer · 个人探索搭子
+### 🌱 Growth Explorer · 潜力兴趣探寻搭子
 引导式 AI 对话，帮不同年龄的人发现潜力与兴趣方向
 
 - 中年转行 / 青年爱好 / 儿童天赋 / 老年兴趣重塑四类人群
